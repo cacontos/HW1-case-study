@@ -3,8 +3,9 @@
 
 
  
- ## **Bitwise**
- 
+ ## **Bitwise** 
+
+  
  ---
 
 ###  When was the company incorporated? 
@@ -13,7 +14,7 @@
 
 * Who are the founders of the company? 
 
-  Hunter Horsley, Hong Kim
+   Hunter Horsley, Hong Kim
 
 * How did the idea for the company (or project) come about?
   
@@ -25,7 +26,7 @@
 
 * How is the company funded? How much funding have they received?
   
-  $500 million + from venture capital investors.
+  $84.5 million from venture capital investors like Khosla Ventures, Highland Capital Partners, and almost 30 individuals from Wall Steet.
 
 ## Business Activities
 
@@ -36,13 +37,16 @@
   Simplifying the process of investing in Crypto
 
 * Who is the company's intended customer?  Is there any information about the market size of this set of customers?
-Bitwise offers investment solutions designed for both the everyday investors and accredited investors alike. This customer base would include nearly every American who has the ability to open an account for investing.
+
+  Bitwise offers investment solutions designed for both the everyday investors and accredited investors alike. This customer base would include nearly every American who has the ability to open an account for investing.
 
 * What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
 
   They offer the ability to directly invest into a diversified portfolio of cryptocurrency through a simplified process, open to your average investor. Their competitors either offer only exposure through futures contracts which can be even more volatile than the crypto itself or have highly restrictive requirements barring participation by your average investor. 
 
 * Which technologies are they currently using, and how are they implementing them? 
+
+  Data concerning this is not publicly available.
 
 ## Landscape
 
@@ -107,10 +111,12 @@ Osprey Funds 175m
 
 * What technologies would this additional product or service utilize?
 
+  The technologies used in creating UITs are proprietary and not publicly avaiable.
 
 
 * Why are these technologies appropriate for your solution?
 
+  N/A
 
 
 ---
@@ -134,4 +140,10 @@ https://www.cbinsights.com/research-fintech-250?utm_campaign=marketing_fintech-2
 https://medium.com/bitwise-asset-management/
 
 https://medium.com/bitwise-asset-management/making-it-easier-to-invest-in-cryptocurrency-8978c898723
+
+https://www.crunchbase.com/organization/bitwise-asset-management/investor_financials
+
+https://www.cnbc.com/2021/06/15/crypto-asset-manager-bitwise-raises-70-million-from-kravis-druckenmiller-others.html#:~:text=Henry%20Kravis%2C%20Stanley%20Druckenmiller%20and,Wall%20Street%20and%20Silicon%20Valley.
+
+
 
